@@ -1,20 +1,20 @@
 [
   {
-    "name": "antolab.xyz",
+    "name": "antolab",
     "url": "https://www.antolab.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/www.antolab.xyz.ico",
-    "slug": "antolab-xyz",
+    "slug": "antolab",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 649,
-    "timeDay": 649,
-    "timeWeek": 649,
-    "timeMonth": 649,
-    "timeYear": 649,
+    "time": 620,
+    "timeDay": 620,
+    "timeWeek": 620,
+    "timeMonth": 620,
+    "timeYear": 620,
     "dailyMinutesDown": {}
   }
 ]

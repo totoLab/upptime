@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.antolab.xyz.ico",
     "slug": "antolab",
     "status": "up",
-    "uptime": "100.01%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 561,
-    "timeDay": 473,
-    "timeWeek": 531,
+    "time": 559,
+    "timeDay": 465,
+    "timeWeek": 509,
     "timeMonth": 566,
-    "timeYear": 561,
+    "timeYear": 559,
     "dailyMinutesDown": {
-      "2024-11-03": -35,
       "2024-10-18": 25
     }
   }

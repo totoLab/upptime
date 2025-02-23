@@ -4,7 +4,7 @@
     "url": "https://www.antolab.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.antolab.net.ico",
     "slug": "antolab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 395,
     "timeYear": 510,
     "dailyMinutesDown": {
+      "2025-02-23": 0,
       "2025-02-08": 57,
       "2025-02-07": 22,
       "2025-02-06": 24,

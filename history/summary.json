@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.antolab.net.ico",
     "slug": "antolab",
     "status": "up",
-    "uptime": "99.32%",
+    "uptime": "99.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.29%",
-    "time": 1081,
-    "timeDay": 654,
-    "timeWeek": 928,
-    "timeMonth": 2102,
-    "timeYear": 1238,
+    "time": 1082,
+    "timeDay": 924,
+    "timeWeek": 936,
+    "timeMonth": 2112,
+    "timeYear": 1245,
     "dailyMinutesDown": {
       "2026-01-30": 45,
       "2026-01-26": 204,
@@ -41,8 +41,7 @@
       "2025-02-08": 57,
       "2025-02-07": 22,
       "2025-02-06": 24,
-      "2025-02-05": 63,
-      "2025-02-04": 17
+      "2025-02-05": 63
     }
   }
 ]

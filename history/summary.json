@@ -6,15 +6,15 @@
     "slug": "antolab",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "97.52%",
-    "uptimeWeek": "99.09%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.65%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.31%",
     "time": 1124,
-    "timeDay": 546,
-    "timeWeek": 2369,
-    "timeMonth": 1295,
-    "timeYear": 1341,
+    "timeDay": 881,
+    "timeWeek": 644,
+    "timeMonth": 1297,
+    "timeYear": 1342,
     "dailyMinutesDown": {
       "2026-03-04": 36,
       "2026-02-26": 56,
@@ -38,8 +38,7 @@
       "2025-04-17": 19,
       "2025-03-21": 645,
       "2025-03-20": 1361,
-      "2025-03-07": 115,
-      "2025-03-06": 3
+      "2025-03-07": 115
     }
   }
 ]
